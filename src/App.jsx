@@ -2,9 +2,9 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-import Navbar from "./components/Navbar";
-import Sidebar from "./components/Sidebar";
-import Toast from "./components/Toast";
+import Navbar from "./Components/Navbar";
+import Sidebar from "./Components/Sidebar";
+import Toast from "./Components/Toast";
 
 import Dashboard from "./Pages/Dashboard";
 import Destinations from "./Pages/Destinations";
