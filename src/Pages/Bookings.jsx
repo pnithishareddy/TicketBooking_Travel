@@ -8,8 +8,8 @@ import {
   CalendarDays,
 } from "lucide-react";
 
-import Modal from "../components/Modal";
-import Pagination from "../components/Pagination";
+import Modal from "../Components/Modal";
+import Pagination from "../Components/Pagination";
 
 function Bookings({
   bookings = [],
