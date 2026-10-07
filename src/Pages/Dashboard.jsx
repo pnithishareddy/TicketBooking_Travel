@@ -23,7 +23,7 @@ import {
   Bar,
 } from "recharts";
 
-import StatCard from "../components/StatCard";
+import StatCard from "../Components/StatCard";
 
 function Dashboard({
   trips = [],
